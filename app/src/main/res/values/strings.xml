@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <string name="drawerOpen">Drawer Open</string>
+    <string name="drawerClose">Drawer Close</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title">Social Media</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name = "email">Email</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an Account? Log In</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
